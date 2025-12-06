@@ -1,9 +1,11 @@
+```
 ████████╗███╗   ███╗██╗   ██╗██╗  ██╗
 ╚══██╔══╝████╗ ████║██║   ██║╚██╗██╔╝
    ██║   ██╔████╔██║██║   ██║ ╚███╔╝ 
    ██║   ██║╚██╔╝██║██║   ██║ ██╔██╗ 
    ██║   ██║ ╚═╝ ██║╚██████╔╝██╔╝ ██╗
    ╚═╝   ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝
+```
 
 # TMUX Configuration
 
@@ -48,6 +50,6 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ## Features
 
 * Custom color scheme
-* Shows current application, virtual environment, and session in status bar
+* Shows current application, opened windows and session in status bar
 * Mouse support enabled
 * Fast pane switching and resizing
